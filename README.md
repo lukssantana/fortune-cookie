@@ -1,2 +1,2 @@
 # fortune-cookie
-first app in react
+first app in react fortune-cookie
